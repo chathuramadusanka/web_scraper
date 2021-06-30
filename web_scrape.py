@@ -4,10 +4,6 @@ import pandas as pd
 import time
 
 
-
-
-
-
 # using this mehhod it will generate the inside link of the given article 
 # then scraping the is done for link and abastract
 def generate_and_extract_abstract(pmid):
