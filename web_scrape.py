@@ -15,7 +15,7 @@ def generate_and_extract_abstract(pmid):
     custom_url_web_paper = "https://pubmed.ncbi.nlm.nih.gov/"
     custom_url_web_paper = custom_url_web_paper+pmid+"/"
 
-    soup_paper, browser = driver_connect(custom_url_web_paper)
+    soup_paper, browser = driver_connect(custom_url_web_paper, 10)
     
     for record in soup_paper.find_all('main', attrs = {'class' : "article-details"}):
         doi_link = record.find('span', attrs = {'class' : 'citation-doi'})
@@ -26,13 +26,14 @@ def generate_and_extract_abstract(pmid):
     return doi_link.text, abstract.text, custom_url_web_paper
     
 # this is method which is get the chrome driver and loading url of the given website
-def driver_connect(url_need_to_get):
+def driver_connect(url_need_to_get, time_vari):
 
     driver = webdriver.Chrome('chromedriver_win32/chromedriver')
     driver.get(url_need_to_get)
+    time.sleep(time_vari)
     content = driver.page_source
     soup = BeautifulSoup(content)
-    time.sleep(10)
+    
 
     return soup, driver
 
@@ -47,7 +48,7 @@ def main_driver_function():
 
     # this link should be varied for site to stite also attributes should be configers 
     # which match the site classes and tags
-    soup, driver = driver_connect("https://pubmed.ncbi.nlm.nih.gov/?term=quantum+machanical+applications+in+canser+research&filter=simsearch1.fha&filter=pubt.review")
+    soup, driver = driver_connect("https://pubmed.ncbi.nlm.nih.gov/?term=quantum+machanical+applications+in+canser+research&filter=simsearch1.fha&filter=pubt.review", 20)
     for a in soup.find_all(attrs = {'class' : 'full-docsum'}):
             
         title = a.find('a', attrs = {'class' : 'docsum-title'})
