@@ -18,6 +18,15 @@ def generate_and_extract_abstract(pmid):
         abstract = record.find('div', attrs = {'class' : 'abstract-content selected'})
     
     browser.quit()
+    try:
+        doi_link = doi_link.text
+    except:
+        doi_link = "None"
+
+    try:
+        abstract =abstract.text
+    except:
+        abstract = "None"
     
     return doi_link.text, abstract.text, custom_url_web_paper
     
