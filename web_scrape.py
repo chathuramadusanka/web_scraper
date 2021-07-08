@@ -27,8 +27,10 @@ def generate_and_extract_abstract(pmid):
         abstract =abstract.text
     except:
         abstract = "None"
+
+    print(doi_link, abstract, custom_url_web_paper)
     
-    return doi_link.text, abstract.text, custom_url_web_paper
+    return doi_link, abstract, custom_url_web_paper
     
 # this is method which is get the chrome driver and loading url of the given website
 def driver_connect(url_need_to_get, time_vari):
@@ -43,7 +45,7 @@ def driver_connect(url_need_to_get, time_vari):
     return soup, driver
 
 # this is the main driving method
-def main_driver_function():
+def main_driver_function(Reference_link, Csv_save_path_and_name):
     titles = []
     authers = []
     doi_links = []
@@ -53,7 +55,7 @@ def main_driver_function():
 
     # this link should be varied for site to stite also attributes should be configers 
     # which match the site classes and tags
-    soup, driver = driver_connect("https://pubmed.ncbi.nlm.nih.gov/?term=quantum+machanical+applications+in+canser+research&filter=simsearch1.fha&filter=pubt.review", 20)
+    soup, driver = driver_connect(Reference_link, 20)
     for a in soup.find_all(attrs = {'class' : 'full-docsum'}):
             
         title = a.find('a', attrs = {'class' : 'docsum-title'})
@@ -81,7 +83,7 @@ def main_driver_function():
     df = pd.DataFrame({'Titel_name' : titles, 'authers' : authers, 'publicatio_type' : publication_types, 'paper_links' : doi_links, \
         'abstracts' : abstracts, 'pub_med_url' : site_paper_link})
     print(df)
-    df.to_csv('results/extract.csv', index = True, encoding='utf-8')
+    df.to_csv(Csv_save_path_and_name, index = True, encoding='utf-8')
     
     #close the browser after work done
     driver.quit()
@@ -89,4 +91,6 @@ def main_driver_function():
 
 if __name__ == '__main__':
 
-    main_driver_function()
+    Reference_link = "https://pubmed.ncbi.nlm.nih.gov/?term=quantum+physics+applications+in+canser+research&filter=simsearch1.fha&filter=pubt.review"
+    Csv_save_path = 'results/extract.csv'
+    main_driver_function(Reference_link, Csv_save_path)
