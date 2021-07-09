@@ -1,5 +1,35 @@
 ,Titel_name,authers,publicatio_type,paper_links,abstracts,pub_med_url
 0,"
+Applications of Raman spectroscopy in cancer diagnosis.
+              ","Auner GW, Koya SK, Huang C, Broadbent B, Trexler M, Auner Z, Elias A, Mehne KC, Brusatori MA.",Review.,"
+        doi: 10.1007/s10555-018-9770-9.
+      ","
+
+      
+      Novel approaches toward understanding the evolution of disease can lead to the discovery of biomarkers that will enable better management of disease progression and improve prognostic evaluation. Raman spectroscopy is a promising investigative and diagnostic tool that can assist in uncovering the molecular basis of disease and provide objective, quantifiable molecular information for diagnosis and treatment evaluation. This technique probes molecular vibrations/rotations associated with chemical bonds in a sample to obtain information on molecular structure, composition, and intermolecular interactions. Raman scattering occurs when light interacts with a molecular vibration/rotation and a change in polarizability takes place during molecular motion. This results in light being scattered at an optical frequency shifted (up or down) from the incident light. By monitoring the intensity profile of the inelastically scattered light as a function of frequency, the unique spectroscopic fingerprint of a tissue sample is obtained. Since each sample has a unique composition, the spectroscopic profile arising from Raman-active functional groups of nucleic acids, proteins, lipids, and carbohydrates allows for the evaluation, characterization, and discrimination of tissue type. This review provides an overview of the theory of Raman spectroscopy, instrumentation used for measurement, and variation of Raman spectroscopic techniques for clinical applications in cancer, including detection of brain, ovarian, breast, prostate, and pancreatic cancers and circulating tumor cells.
+    
+",https://pubmed.ncbi.nlm.nih.gov/30569241/
+1,"
+                Phenotypic analysis of extracellular vesicles: a review on the applications of fluorescence.
+              ","Panagopoulou MS, Wark AW, Birch DJS, Gregory CD.",Review.,"
+        doi: 10.1080/20013078.2019.1710020.
+      ","
+
+      
+      Extracellular vesicles (EVs) have numerous potential applications in the field of healthcare and diagnostics, and research into their biological functions is rapidly increasing. Mainly because of their small size and heterogeneity, there are significant challenges associated with their analysis and despite overt evidence of the potential of EVs in clinical diagnostic practice, guidelines for analytical procedures have not yet been properly established. Here, we present an overview of the main methods for studying the properties of EVs based on the principles of fluorescence. Setting aside the isolation, purification and physicochemical characterization strategies which answer questions about the size, surface charge and stability of EVs (reviewed elsewhere), we focus on available optical tools that enable the direct analysis of phenotype and mechanisms of interaction with tissues. In brief, the topics on which we elaborate range from the most popular approaches such as nanoparticle tracking analysis and flow cytometry, to less commonly used techniques such as fluorescence depolarization and microarrays as well as emerging areas such as fast fluorescence lifetime imaging microscopy (FLIM). We highlight that understanding the strengths and limitations of each method is essential for choosing the most appropriate combination of analytical tools. Finally, future directions of this rapidly developing area of medical diagnostics are discussed.
+    
+",https://pubmed.ncbi.nlm.nih.gov/32002172/
+2,"
+Applications of Graphene and Graphene Oxide in Smart Drug/Gene Delivery: Is the World Still Flat?
+              ","Hoseini-Ghahfarokhi M, Mirkiani S, Mozaffari N, Abdolahi Sadatlu MA, Ghasemi A, Abbaspour S, Akbarian M, Farjadian F, Karimi M.",Review.,"
+        doi: 10.2147/IJN.S265876.
+      ","
+
+      
+      Graphene, a wonder material, has made far-reaching developments in many different fields such as materials science, electronics, condensed physics, quantum physics, energy systems, etc. Since its discovery in 2004, extensive studies have been done for understanding its physical and chemical properties. Owing to its unique characteristics, it has rapidly became a potential candidate for nano-bio researchers to explore its usage in biomedical applications. In the last decade, remarkable efforts have been devoted to investigating the biomedical utilization of graphene and graphene-based materials, especially in smart drug and gene delivery as well as cancer therapy. Inspired by a great number of successful graphene-based materials integrations into the biomedical area, here we summarize the most recent developments made about graphene applications in biomedicine. In this paper, we review the up-to-date advances of graphene-based materials in drug delivery applications, specifically targeted drug/ gene delivery, delivery of antitumor drugs, controlled and stimuli-responsive drug release, photodynamic therapy applications and optical imaging and theranostics, as well as investigating the future trends and succeeding challenges in this topic to provide an outlook for future researches.
+    
+",https://pubmed.ncbi.nlm.nih.gov/33281443/
+3,"
                 Electromagnetic fields and optomechanics in cancer diagnostics and treatment.
               ","Salari V, Barzanjeh S, Cifra M, Simon C, Scholkmann F, Alirezaei Z, Tuszynski JA.",Review.,"
         doi: 10.2741/4651.
@@ -9,17 +39,45 @@
       In this paper, we discuss biological effects of electromagnetic (EM) ﬁelds in the context of cancer biology. In particular, we review the nanomechanical properties of microtubules (MTs), the latter being one of the most successful targets for cancer therapy. We propose an investigation on the coupling of electromagnetic radiation to mechanical vibrations of MTs as an important basis for biological and medical applications. In our opinion, optomechanical methods can accurately monitor and control the mechanical properties of isolated MTs in a liquid environment. Consequently, studying nanomechanical properties of MTs may give useful information for future applications to diagnostic and therapeutic technologies involving non-invasive externally applied physical ﬁelds. For example, electromagnetic ﬁelds or high intensity ultrasound can be used therapeutically avoiding harmful side effects of chemotherapeutic agents or classical radiation therapy.
     
 ",https://pubmed.ncbi.nlm.nih.gov/29293441/
-1,"
-                Development of point-of-care nanobiosensors for breast cancers diagnosis.
-              ","Sharifi M, Hasan A, Attar F, Taghizadeh A, Falahati M.",Review.,"
-        doi: 10.1016/j.talanta.2020.121091.
+4,"
+                Emerging Applications of Porphyrins and Metalloporphyrins in Biomedicine and Diagnostic Magnetic Resonance Imaging.
+              ","Imran M, Ramzan M, Qureshi AK, Khan MA, Tariq M.",Review.,"
+        doi: 10.3390/bios8040095.
       ","
 
       
-      Nanobiosensors have played a key role as portable devices in the rapid breast cancer diagnosis and in clinical medicine like point-of-care devices. However, understanding biomarkers and nanomaterials is crucial for improving the performance of nanobiosensors for all stages of different diseases or treatment. Therefore, this study not only investigates the effect of biomarkers and nanomaterials such as metallic, carbon structures and quantum dot on the accuracy of nanobiosensors for early detection of breast cancer, but also exhibits how they are used in vivo and in vitro and their application in point-of-care devices for personalized cancer diagnosis. Afterwards, application of fluidics and microchips as point-of-care nanobiosensors in the early detection of biomarkers associated with breast cancer diagnosis was discussed. Furthermore, the integration of nanobiosensors in nanomotors platforms for the treatment of breast cancer was overviewed. Finally, the ongoing challenges and future trends on the detection limit of nanobiosensors, their application in point-of-care clinical diagnostics and the approaches implemented for their improvements by highlighting the successful reports on the revolution of personalized diagnostics were surveyed.
+      In recent years, scientific advancements have constantly increased at a significant rate in the field of biomedical science. Keeping this in view, the application of porphyrins and metalloporphyrins in the field of biomedical science is gaining substantial importance. Porphyrins are the most widely studied tetrapyrrole-based compounds because of their important roles in vital biological processes. The cavity of porphyrins containing four pyrrolic nitrogens is well suited for the binding majority of metal ions to form metalloporphyrins. Porphyrins and metalloporphyrins possess peculiar photochemical, photophysical, and photoredox properties which are tunable through structural modifications. Their beneficial photophysical properties, such as the long wavelength of emission and absorption, high singlet oxygen quantum yield, and low in vivo toxicity, have drawn scientists' interest to discover new dimensions in the biomedical field. Applications of porphyrins and metalloporphyrins have been pursued in the perspective of contrast agents for magnetic resonance imaging (MRI), photodynamic therapy (PDT) of cancer, bio-imaging, and other biomedical applications. This review discusses photophysics and the photochemistry of porphyrins and their metal complexes. Secondly, it explains the current developments and mode of action for contrast agents for MRI. Moreover, the application of porphyrin and metalloporphyrin-based molecules as a photosensitizer in PDT of cancer, the mechanism of the generation of reactive oxygen species (ROS), factors that determine the efficiency of PDT, and the developments to improve this technology are delineated. The last part explores the most recent research and developments on metalloporphyrin-based materials in bio-imaging, drug delivery, and the determination of ferrochelatase in bone marrow indicating their prospective clinical applications.
     
-",https://pubmed.ncbi.nlm.nih.gov/32498898/
-2,"
+",https://pubmed.ncbi.nlm.nih.gov/30347683/
+5,"
+                New directions in quantum dot-based cytometry detection of cancer serum markers and tumor cells.
+              ","Akinfieva O, Nabiev I, Sukhanova A.",Review.,"
+        doi: 10.1016/j.critrevonc.2012.09.004.
+      ","
+
+      
+      The use of fluorescent quantum dots (QDs) incorporated in or tagged with polymeric microbeads allows multiplexed coding of biomolecules. Compared to organic dyes, QDs are characterized by improved imaging capabilities, brightness, and photostability and may be used for simultaneous detection of multiple biomarkers. Development of QD conjugates and QD-encoded suspension arrays has given rise to new promising approaches to cell labeling, in vivo visualization, and diagnostic assay techniques. QDs have proved to be efficient donors for Förster resonance energy transfer (FRET) and are characterized by high multiphoton absorption coefficients. Implication of QD-based suspension arrays for identification of autoantibodies, tumor-specific T cells, and detection of circulating cancer cells by means of flow cytometry, holds considerable promise for earliest diagnosis of human abnormalities and effective monitoring of the therapeutic effects. This review summarizes recent advances in QD-based suspension arrays application to cancer diagnosis and attempts to predict their diagnostic potential in a future.
+    
+",https://pubmed.ncbi.nlm.nih.gov/23058250/
+6,"
+                Marvelous applications of quantum dots.
+              ","Cheki M, Moslehi M, Assadi M.",Review.,None,"
+
+
+          Background:
+        
+      
+      Nanotechnology is developed to convert research, prevention, and treatment of cancer through the novel diagnostic imaging techniques and therapies. In particular, the imaging nanotechnology has gained substantial momentum in recent years. The main progress in nanotechnology has led to the production of novel fluorescent probes named quantum dots (QDs). Quantum dots develop a revolution in the molecular tagging processes within research, in vivo and in vitro studies. Due to unique physical and chemical features of QD probes, new possible techniques of early cancer detection and therapeutic management are being surveyed. Quantum dots have also dissolved many of the restrictions of organic fluorophores and are a talented option as a research tool.
+    
+
+
+          Conclusions:
+        
+      
+      This review addresses on the present status of research, preclinical applications and also future visions of quantum dots. 
+    
+",https://pubmed.ncbi.nlm.nih.gov/23690181/
+7,"
 Quantum entanglement in photoactive prebiotic systems.
               ","Tamulis A, Grigalavicius M.",Review.,"
         doi: 10.1007/s11693-014-9138-6.
@@ -29,67 +87,185 @@ Quantum entanglement in photoactive prebiotic systems.
       This paper contains the review of quantum entanglement investigations in living systems, and in the quantum mechanically modelled photoactive prebiotic kernel systems. We define our modelled self-assembled supramolecular photoactive centres, composed of one or more sensitizer molecules, precursors of fatty acids and a number of water molecules, as a photoactive prebiotic kernel systems. We propose that life first emerged in the form of such minimal photoactive prebiotic kernel systems and later in the process of evolution these photoactive prebiotic kernel systems would have produced fatty acids and covered themselves with fatty acid envelopes to become the minimal cells of the Fatty Acid World. Specifically, we model self-assembling of photoactive prebiotic systems with observed quantum entanglement phenomena. We address the idea that quantum entanglement was important in the first stages of origins of life and evolution of the biospheres because simultaneously excite two prebiotic kernels in the system by appearance of two additional quantum entangled excited states, leading to faster growth and self-replication of minimal living cells. The quantum mechanically modelled possibility of synthesizing artificial self-reproducing quantum entangled prebiotic kernel systems and minimal cells also impacts the possibility of the most probable path of emergence of protocells on the Earth or elsewhere. We also examine the quantum entangled logic gates discovered in the modelled systems composed of two prebiotic kernels. Such logic gates may have application in the destruction of cancer cells or becoming building blocks of new forms of artificial cells including magnetically active ones. 
     
 ",https://pubmed.ncbi.nlm.nih.gov/24799958/
-3,"
-                Bioapplications of graphene constructed functional nanomaterials.
-              ","Gulzar A, Yang P, He F, Xu J, Yang D, Xu L, Jan MO.",Review.,"
-        doi: 10.1016/j.cbi.2016.11.019.
-      ","
-
-      
-      Graphene has distinctive mechanical, electronic, and optical properties, which researchers have applied to develop innovative electronic materials including transparent conductors and ultrafast transistors. Lately, the understanding of various chemical properties of graphene has expedited its application in high-performance devices that generate and store energy. Graphene is now increasing its terrain outside electronic and chemical applications toward biomedical areas such as precise bio sensing through graphene-quenched fluorescence, graphene-enhanced cell differentiation and growth, and graphene-assisted laser desorption/ionization for mass spectrometry. In this Account, we evaluate recent efforts to apply graphene and graphene oxides (GO) to biomedical research and a few different approaches to prepare graphene materials designed for biomedical applications and a brief perspective on their future applications. Because of its outstanding aqueous processability, amphiphilicity, surface functionalizability, surface enhanced Raman scattering (SERS), and fluorescence quenching ability, GO chemically exfoliated from oxidized graphite is considered a promising material for biological applications. In addition, the hydrophobicity and flexibility of large-area graphene synthesized by chemical vapor deposition (CVD) allow this material to play an important role in cell growth and differentiation. Graphene is considered to be an encouraging and smart candidate for numerous biomedical applications such as NIR-responsive cancer therapy and fluorescence bio-imaging and drug delivery. To that end, suitable preparation and unique approaches to utilize graphene-based materials such as graphene oxides (GOs), reduced graphene oxides (rGOs), and graphene quantum dots (GQDs) in biology and medical science are gaining growing interest.
-    
-",https://pubmed.ncbi.nlm.nih.gov/27876601/
-4,"
-                Live cell biosensing platforms using graphene-based hybrid nanomaterials.
-              ","Kim TH, Lee D, Choi JW.",Review.,"
-        doi: 10.1016/j.bios.2017.03.032.
-      ","
-
-      
-      A novel strategy to precisely detect or monitor various biomaterials in living cells poses paramount importance in understanding cellular processes. Graphene, a newly emerged two-dimensional carbon material, has been widely utilized for biosensors owing to its multifarious characteristics including mechanical, electrical, and optical properties (e.g. stability, conductivity, fluorescence quenching and photoluminescence). In addition, graphene derivatives and their innate characteristics, such as biocompatibility low cytotoxicity and water solubility have facilitated the use of graphene-based materials for live cell biosensing, wherein graphene is utilized as a core material by itself or in combination with other functional nanomaterials to load target-specific probes, fluorescent dyes, and other signaling molecules. Such graphene-based hybrid nanomaterials have been employed to detect various cellular entities in living cells, including ions, biomolecules, genetic molecules, proteins, enzymes, and even whole cells. The following review will discuss a number of previous studies in which graphene-based hybrid constructs were used for live cell biosensing, and their potential applications in cancer research and stem cell therapy.
-    
-",https://pubmed.ncbi.nlm.nih.gov/28342377/
-5,"
-                Graphene-based nanomaterials for versatile imaging studies.
-              ","Yoo JM, Kang JH, Hong BH.",Review.,"
-        doi: 10.1039/c5cs00072f.
-      ","
-
-      
-      Over the last decade, interest in graphene has surged because of its unprecedented physical, chemical, electrical, and mechanical properties. In recent years, researchers' interests have gradually shifted to other notable properties of graphene - its environmentally-friendly nature with outstanding optical properties. Thus, graphene is considered to be a promising and attractive candidate for various biomedical applications such as NIR-responsive cancer therapy and fluorescence bio-imaging. To that end, appropriate preparation and novel approaches to utilize graphene-based materials such as graphene oxides (GOs), reduced graphene oxides (rGOs), and graphene quantum dots (GQDs) in biology and medical science are gaining growing interest. In this review, we highlight recent applications of graphene-based materials as novel prospects for versatile imaging studies with a brief perspective on their future applications. 
-    
-",https://pubmed.ncbi.nlm.nih.gov/25777530/
-6,"
-                Innate Immune Regulation Under Magnetic Fields With Possible Mechanisms and Therapeutic Applications.
-              ","Lei H, Pan Y, Wu R, Lv Y.",Review.,"
-        doi: 10.3389/fimmu.2020.582772.
-      ","
-
-      
-      With the wide applications of magnetic fields (MFs) in medicine, researchers from different disciplines have gained interest in understanding the effect of various types of MFs on living cells and organisms. In this paper, we mainly focus on the immunological and physical aspects of the immune responses and their mechanisms under different types of MFs. Immune cells were slightly affected by low-frequency alternating MFs but were strongly influenced by moderate-intensity MFs and high-gradient MFs (HGMFs). Larger immune cells, such as macrophages, were more sensitive to HGMFs, which biased the cell polarization into the anti-inflammatory M2 phenotype. Subject to the gradient forces of varying directions and strength, the elongated M2 macrophage also remodeled the cytoskeleton with actin polymerization and changed the membrane receptors and ion channel gating. These alterations were very similar to changes caused by the small GTPase RhoA interference in macrophage. Regulation of iron metabolism may also contribute to the MF effects in macrophages. High MFs were found to regulate the iron content in monocyte-/macrophage-derived osteoclasts by affecting the expression of iron-regulation genes. On the other hand, paramagnetic nanoparticles (NPs) combined with external MFs play an important role in T-cell immunity. Paramagnetic NP-coated T-cells can cluster their T-cell receptors (TCRs) by using an external MF, thus increasing the cell-cell contact and communication followed by enhanced tumor killing capacity. The external MF can also guide the adoptively transferred magnetic NP-coated T-cells to their target sites in vivo, thus dramatically increasing the efficiency of cell therapy. Additionally, iron oxide NPs for ferroptosis-based cancer therapy and other MF-related therapeutic applications with obstacles were also addressed. Furthermore, for a profound understanding of the effect of MFs on immune cells, multidisciplinary research involving both experimental research and theoretical modeling is essential.
-    
-",https://pubmed.ncbi.nlm.nih.gov/33193393/
-7,"
-                Carbon Nanomaterial Based Biosensors for Non-Invasive Detection of Cancer and Disease Biomarkers for Clinical Diagnosis.
-              ","Pasinszki T, Krebsz M, Tung TT, Losic D.",Review.,"
-        doi: 10.3390/s17081919.
-      ","
-
-      
-      The early diagnosis of diseases, e.g., Parkinson's and Alzheimer's disease, diabetes, and various types of cancer, and monitoring the response of patients to the therapy plays a critical role in clinical treatment; therefore, there is an intensive research for the determination of many clinical analytes. In order to achieve point-of-care sensing in clinical practice, sensitive, selective, cost-effective, simple, reliable, and rapid analytical methods are required. Biosensors have become essential tools in biomarker sensing, in which electrode material and architecture play critical roles in achieving sensitive and stable detection. Carbon nanomaterials in the form of particle/dots, tube/wires, and sheets have recently become indispensable elements of biosensor platforms due to their excellent mechanical, electronic, and optical properties. This review summarizes developments in this lucrative field by presenting major biosensor types and variability of sensor platforms in biomedical applications.
-    
-",https://pubmed.ncbi.nlm.nih.gov/28825646/
 8,"
-                Therapeutic applications of mushrooms and their biomolecules along with a glimpse of in silico approach in neurodegenerative diseases.
-              ","Rai SN, Mishra D, Singh P, Vamanu E, Singh MP.",Review.,"
-        doi: 10.1016/j.biopha.2021.111377.
+Quantum dots: emerging applications in urologic oncology.
+              ","Shi C, Zhu Y, Cerwinka WH, Zhau HE, Marshall FF, Simons JW, Nie S, Chung LW.",Review.,"
+        doi: 10.1016/j.urolonc.2007.03.018.
       ","
 
       
-      Neurodegenerative diseases (NDs) represent a common neurological pathology that determines a progressive deterioration of the brain or the nervous system. For treating NDs, comprehensive and alternative medicines have attracted scientific researchers' attention recently. Edible mushrooms are essential for preventing several age-based neuronal dysfunctions such as Parkinson's and Alzheimer's diseases. Mushroom such as Grifola frondosa, Lignosus rhinocerotis, Hericium erinaceus, may improve cognitive functions. It has also been reported that edible mushrooms (basidiocarps/mycelia extracts or isolated bioactive compounds) may reduce beta-amyloid-induced neurotoxicity. Medicinal mushrooms are being used for novel and natural compounds that help modulate immune responses and possess anti-cancer, anti-microbial, and anti-oxidant properties. Compounds such as polyphenols, terpenoids, alkaloids, sesquiterpenes, polysaccharides, and metal chelating agents are validated in different ND treatments. This review aims to assess mushrooms' role and their biomolecules utilization for treating different kinds of NDs. The action mechanisms, presented here, including reducing oxidative stress, neuroinflammation, and modulation of acetylcholinesterase activity, protecting neurons or stimulation, and regulating neurotrophins synthesis. We also provide background about neurodegenerative diseases and in-silico techniques of the drug research. High costs associated with experiments and current ethical law imply efficient alternatives with limited cost value. In silico approaches provide an alternative method with low cost that has been successfully implemented to cure ND disorders in recent days. We also describe the applications of computational procedures such as molecular docking, virtual high-throughput screening, molecular dynamic (MD) simulation, quantum-mechanical methods for drug design. They were reported against various targets in NDs.
+      Quantum dots (QDs), nanometer-sized fluorescent probes with unique optical and electronic properties, offer a promising and powerful tool for cancer imaging and diagnostics. For the past few years, QDs were actively developed for biomolecular profiling of cancer biomarkers, in vivo tumor imaging, and even targeted drug delivery. These emerging applications are currently being improved and integrated into clinical practice. In this article, we describe the development of multifunctional QDs and their potential applications in oncology, with a particular emphasis on the diagnosis, prognosis, and treatment of urologic cancers.
     
-",https://pubmed.ncbi.nlm.nih.gov/33601145/
+",https://pubmed.ncbi.nlm.nih.gov/18190836/
 9,"
+                Multiplexed Nanobiosensors: Current Trends in Early Diagnostics.
+              ","Jarockyte G, Karabanovas V, Rotomskis R, Mobasheri A.",Review.,"
+        doi: 10.3390/s20236890.
+      ","
+
+      
+      The ever-growing demand for fast, cheap, and reliable diagnostic tools for personalised medicine is encouraging scientists to improve existing technology platforms and to create new methods for the detection and quantification of biomarkers of clinical significance. Simultaneous detection of multiple analytes allows more accurate assessment of changes in biomarker expression and offers the possibility of disease diagnosis at the earliest stages. The concept of multiplexing, where multiple analytes can be detected in a single sample, can be tackled using several types of nanomaterial-based biosensors. Quantum dots are widely used photoluminescent nanoparticles and represent one of the most frequent choices for different multiplex systems. However, nanoparticles that incorporate gold, silver, and rare earth metals with their unique optical properties are an emerging perspective in the multiplexing field. In this review, we summarise progress in various nanoparticle applications for multiplexed biomarkers.
+    
+",https://pubmed.ncbi.nlm.nih.gov/33276535/
+10,"
+                Stimuli-Responsive Polymeric Nanocarriers for Drug Delivery, Imaging, and Theragnosis.
+              ","Das SS, Bharadwaj P, Bilal M, Barani M, Rahdar A, Taboada P, Bungau S, Kyzas GZ.",Review.,"
+        doi: 10.3390/polym12061397.
+      ","
+
+      
+      In the past few decades, polymeric nanocarriers have been recognized as promising tools and have gained attention from researchers for their potential to efficiently deliver bioactive compounds, including drugs, proteins, genes, nucleic acids, etc., in pharmaceutical and biomedical applications. Remarkably, these polymeric nanocarriers could be further modified as stimuli-responsive systems based on the mechanism of triggered release, i.e., response to a specific stimulus, either endogenous (pH, enzymes, temperature, redox values, hypoxia, glucose levels) or exogenous (light, magnetism, ultrasound, electrical pulses) for the effective biodistribution and controlled release of drugs or genes at specific sites. Various nanoparticles (NPs) have been functionalized and used as templates for imaging systems in the form of metallic NPs, dendrimers, polymeric NPs, quantum dots, and liposomes. The use of polymeric nanocarriers for imaging and to deliver active compounds has attracted considerable interest in various cancer therapy fields. So-called smart nanopolymer systems are built to respond to certain stimuli such as temperature, pH, light intensity and wavelength, and electrical, magnetic and ultrasonic fields. Many imaging techniques have been explored including optical imaging, magnetic resonance imaging (MRI), nuclear imaging, ultrasound, photoacoustic imaging (PAI), single photon emission computed tomography (SPECT), and positron emission tomography (PET). This review reports on the most recent developments in imaging methods by analyzing examples of smart nanopolymers that can be imaged using one or more imaging techniques. Unique features, including nontoxicity, water solubility, biocompatibility, and the presence of multiple functional groups, designate polymeric nanocues as attractive nanomedicine candidates. In this context, we summarize various classes of multifunctional, polymeric, nano-sized formulations such as liposomes, micelles, nanogels, and dendrimers.
+    
+",https://pubmed.ncbi.nlm.nih.gov/32580366/
+11,"
+                SYNTHESIS AND APPLICATIONS OF Fe3O4/SiO2 CORE-SHELL MATERIALS.
+              ","Sonmez M, Georgescu M, Alexandrescu L, Gurau D, Ficai A, Ficai D, Andronescu E.",Review.,"
+        doi: 10.2174/1381612821666150917094031.
+      ","
+
+      
+      Multifunctional nanoparticles based on magnetite/silica core-shell, consisting of iron oxides coated with silica matrix doped with fluorescent components such as organic dyes (fluorescein isothiocyanate - FITC, Rhodamine 6G) or quantum dots, have drawn remarkable attention in the last years. Due to the bi-functionality of these types of nanoparticles (simultaneously having magnetic and fluorescent properties), they are successfully used in highly efficient human stem cell labeling, magnetic carrier for photodynamic therapy, drug delivery, hyperthermia and other biomedical applications. Another application of core-shell-based nanoparticles, in which the silica is functionalized with aminosilanes, is for immobilization and separation of various biological entities such as proteins, antibodies, enzymes etc. as well as in environmental applications, as adsorbents for heavy metal ions. In vitro tests on human cancerous cells, such as A549 (human lung carcinoma), breast, human cervical cancer, THP-1 (human acute monocytic leukaemia) etc. , were conducted to assess the potential cytotoxic effects that may occur upon contact of nanoparticles with cancerous tissue. Results show that core-shell nanoparticles doped with cytostatics (cisplatin, doxorubicin, etc.), are easily adsorbed by affected tissue and in some cases lead to an inhibition of cell proliferation and induce cell death by apoptosis. The goal of this review is to summarize the advances in the field of core-shell materials, particularly those based on magnetite/silica with applicability in medicine and environmental protection. This paper briefly describes synthesis methods of silica-coated magnetite nanoparticles (Stöber method and microemulsion), the method of encapsulating functional groups based on aminosilanes in silica shell, as well as applications in medicine of these types of simple or modified nanoparticles for cancer therapy, MRI, biomarker immobilization, drug delivery, biocatalysis etc., and in environmental applications (removal of heavy metal ions and catalysis). 
+    
+",https://pubmed.ncbi.nlm.nih.gov/26377652/
+12,"
+                Semiconductor Quantum Dots with Photoresponsive Ligands.
+              ","Sansalone L, Tang S, Zhang Y, Thapaliya ER, Raymo FM, Garcia-Amorós J.",Review.,"
+        doi: 10.1007/s41061-016-0073-8.
+      ","
+
+      
+      Photochromic or photocaged ligands can be anchored to the outer shell of semiconductor quantum dots in order to control the photophysical properties of these inorganic nanocrystals with optical stimulations. One of the two interconvertible states of the photoresponsive ligands can be designed to accept either an electron or energy from the excited quantum dots and quench their luminescence. Under these conditions, the reversible transformations of photochromic ligands or the irreversible cleavage of photocaged counterparts translates into the possibility to switch luminescence with external control. As an alternative to regulating the photophysics of a quantum dot via the photochemistry of its ligands, the photochemistry of the latter can be controlled by relying on the photophysics of the former. The transfer of excitation energy from a quantum dot to a photocaged ligand populates the excited state of the species adsorbed on the nanocrystal to induce a photochemical reaction. This mechanism, in conjunction with the large two-photon absorption cross section of quantum dots, can be exploited to release nitric oxide or to generate singlet oxygen under near-infrared irradiation. Thus, the combination of semiconductor quantum dots and photoresponsive ligands offers the opportunity to assemble nanostructured constructs with specific functions on the basis of electron or energy transfer processes. The photoswitchable luminescence and ability to photoinduce the release of reactive chemicals, associated with the resulting systems, can be particularly valuable in biomedical research and can, ultimately, lead to the realization of imaging probes for diagnostic applications as well as to therapeutic agents for the treatment of cancer.
+    
+",https://pubmed.ncbi.nlm.nih.gov/27683098/
+13,"
+                Towards the quantum-enabled technologies for development of drugs or delivery systems.
+              ",Hassanzadeh P.,Review.,"
+        doi: 10.1016/j.jconrel.2020.04.050.
+      ","
+
+      
+      Enormous advances in technology and science have provided outstanding innovations including the development of quantum computers (QCs) capable of performing various tasks much more efficiently and quickly than the classical computers. Integrating and analyzing gigantic amounts of data, ultra-rapid calculations, solving intractable problems, secure communications, providing novel insights into the material design or biosystems, advanced simulations, rapid genome analysis and sequencing, early cancer detection, identifying novel drug applications, accelerated discovery of new molecules, targets, or theranostic agents and evaluation of their behaviors, and acquiring a deeper knowledge about the complex data patterns, formation of proteins, or mechanism of disease progression and evolution by QCs may indeed revolutionize conventional technologies and strategies. Application of quantum computing and machine learning for accelerated analysis of the biological or medical data, uncovering the mechanisms of chemical reactions or action of drug candidates, and creation of patient-specific treatment strategies using genomics data can result in the development of more effective and less toxic drugs or personalized therapy. This article highlights the importance of QCs in designing drugs and delivery systems, limitations, and possible solutions.
+    
+",https://pubmed.ncbi.nlm.nih.gov/32380203/
+14,"
+                Exclusion Zone Phenomena in Water-A Critical Review of Experimental Findings and Theories.
+              ","Elton DC, Spencer PD, Riches JD, Williams ED.",Review.,"
+        doi: 10.3390/ijms21145041.
+      ","
+
+      
+      The existence of the exclusion zone (EZ), a layer of water in which plastic microspheres are repelled from hydrophilic surfaces, has now been independently demonstrated by several groups. A better understanding of the mechanisms which generate EZs would help with understanding the possible importance of EZs in biology and in engineering applications such as filtration and microfluidics. Here we review the experimental evidence for EZ phenomena in water and the major theories that have been proposed. We review experimental results from birefringence, neutron radiography, nuclear magnetic resonance, and other studies. Pollack theorizes that water in the EZ exists has a different structure than bulk water, and that this accounts for the EZ. We present several alternative explanations for EZs and argue that Schurr's theory based on diffusiophoresis presents a compelling alternative explanation for the core EZ phenomenon. Among other things, Schurr's theory makes predictions about the growth of the EZ with time which have been confirmed by Florea et al. and others. We also touch on several possible confounding factors that make experimentation on EZs difficult, such as charged surface groups, dissolved solutes, and adsorbed nanobubbles.
+    
+",https://pubmed.ncbi.nlm.nih.gov/32708867/
+15,"
+                Deep Imaging: the next frontier in microscopy.
+              ","Roukos V, Misteli T.",Review.,"
+        doi: 10.1007/s00418-014-1239-5.
+      ","
+
+      
+      The microscope is the quintessential tool for discovery in cell biology. From its earliest incarnation as a tool to make the unseen visible, microscopes have been at the center of most revolutionizing developments in cell biology, histology and pathology. Major quantum leaps in imaging involved the dramatic improvements in resolution to see increasingly smaller structures, methods to visualize specific molecules inside of cells and tissues, and the ability to peer into living cells to study dynamics of molecules and cellular structures. The latest revolution in microscopy is Deep Imaging-the ability to look at very large numbers of samples by high-throughput microscopy at high spatial and temporal resolution. This approach is rooted in the development of fully automated high-resolution microscopes and the application of advanced computational image analysis and mining methods. Deep Imaging is enabling two novel, powerful approaches in cell biology: the ability to image thousands of samples with high optical precision allows every discernible morphological pattern to be used as a read-out in large-scale imaging-based screens, particularly in conjunction with RNAi-based screening technology; in addition, the capacity to capture large numbers of images, combined with advanced computational image analysis methods, has also opened the door to detect and analyze very rare cellular events. These two applications of Deep Imaging are revolutionizing cell biology. 
+    
+",https://pubmed.ncbi.nlm.nih.gov/24989801/
+16,"
+Quantum counting: Operator methods for discrete population dynamics with applications to cell division.
+              ","Robinson TR, Haven E, Fry AM.",Review.,"
+        doi: 10.1016/j.pbiomolbio.2017.07.001.
+      ","
+
+      
+      The set of natural numbers may be identified with the spectrum of eigenvalues of an operator (quantum counting), and the dynamical equations of populations of discrete, countable items may be formulated using operator methods. These equations take the form of time dependent operator equations, involving Hamiltonian operators, from which the statistical time dependence of population numbers may be determined. The quantum operator method is illustrated by a novel approach to cell population dynamics. This involves Hamiltonians that mimic the process of stimulated cell division. We evaluate two different models, one in which the stimuli are expended in the division process and one in which the stimuli act as true catalysts. While the former model exhibits only bounded cell population variations, the latter exhibits two distinct regimes; one has bounded population fluctuations about a mean level and in the other, the population can undergo growth to levels that are orders of magnitude above threshold levels, through an instability that could be interpreted as a cancerous growth phase.
+    
+",https://pubmed.ncbi.nlm.nih.gov/28694005/
+17,"
+                Nanomedicine strategies for molecular targets with MRI and optical imaging.
+              ","Pan D, Caruthers SD, Chen J, Winter PM, SenPan A, Schmieder AH, Wickline SA, Lanza GM.",Review.,"
+        doi: 10.4155/fmc.10.5.
+      ","
+
+      
+      The science of 'theranostics' plays a crucial role in personalized medicine, which represents the future of patient management. Over the last decade an increasing research effort has focused on the development of nanoparticle-based molecular-imaging and drug-delivery approaches, emerging as a multidisciplinary field that shows promise in understanding the components, processes, dynamics and therapies of a disease at a molecular level. The potential of nanometer-sized agents for early detection, diagnosis and personalized treatment of diseases is extraordinary. They have found applications in almost all clinically relevant biomedical imaging modality. In this review, a number of these approaches will be presented with a particular emphasis on MRI and optical imaging-based techniques. We have discussed both established molecular-imaging approaches and recently developed innovative strategies, highlighting the seminal studies and a number of successful examples of theranostic nanomedicine, especially in the areas of cardiovascular and cancer therapy.
+    
+",https://pubmed.ncbi.nlm.nih.gov/20485473/
+18,"
+                Modern micro and nanoparticle-based imaging techniques.
+              ","Ryvolova M, Chomoucka J, Drbohlavova J, Kopel P, Babula P, Hynek D, Adam V, Eckschlager T, Hubalek J, Stiborova M, Kaiser J, Kizek R.",Review.,"
+        doi: 10.3390/s121114792.
+      ","
+
+      
+      The requirements for early diagnostics as well as effective treatment of insidious diseases such as cancer constantly increase the pressure on development of efficient and reliable methods for targeted drug/gene delivery as well as imaging of the treatment success/failure. One of the most recent approaches covering both the drug delivery as well as the imaging aspects is benefitting from the unique properties of nanomaterials. Therefore a new field called nanomedicine is attracting continuously growing attention. Nanoparticles, including fluorescent semiconductor nanocrystals (quantum dots) and magnetic nanoparticles, have proven their excellent properties for in vivo imaging techniques in a number of modalities such as magnetic resonance and fluorescence imaging, respectively. In this article, we review the main properties and applications of nanoparticles in various in vitro imaging techniques, including microscopy and/or laser breakdown spectroscopy and in vivo methods such as magnetic resonance imaging and/or fluorescence-based imaging. Moreover the advantages of the drug delivery performed by nanocarriers such as iron oxides, gold, biodegradable polymers, dendrimers, lipid based carriers such as liposomes or micelles are also highlighted.
+    
+",https://pubmed.ncbi.nlm.nih.gov/23202187/
+19,"
+                Regulating the Photophysical Property of Organic/Polymer Optical Agents for Promoted Cancer Phototheranostics.
+              ","Chen C, Ou H, Liu R, Ding D.",Review.,"
+        doi: 10.1002/adma.201806331.
+      ","
+
+      
+      On the basis of the Jablonski diagram, the photophysical properties of optical agents are highly associated with biomedical function and efficacy. Herein, the focus is on organic/polymer optical agents and the recent progress in the main strategies for regulating their photophysical properties to achieve superior cancer diagnosis/phototheranostics applications are highlighted. Both the approaches of nanoengineering and molecular design, which can lead to optimized effectiveness of required biomedical function, are discussed.
+    
+",https://pubmed.ncbi.nlm.nih.gov/30924971/
+20,"
+                Recent Advances in Stimuli-Responsive Release Function Drug Delivery Systems for Tumor Treatment.
+              ","Ding C, Tong L, Feng J, Fu J.",Review.,"
+        doi: 10.3390/molecules21121715.
+      ","
+
+      
+      Benefiting from the development of nanotechnology, drug delivery systems (DDSs) with stimuli-responsive controlled release function show great potential in clinical anti-tumor applications. By using a DDS, the harsh side effects of traditional anti-cancer drug treatments and damage to normal tissues and organs can be avoided to the greatest extent. An ideal DDS must firstly meet bio-safety standards and secondarily the efficiency-related demands of a large drug payload and controlled release function. This review highlights recent research progress on DDSs with stimuli-responsive characteristics. The first section briefly reviews the nanoscale scaffolds of DDSs, including mesoporous nanoparticles, polymers, metal-organic frameworks (MOFs), quantum dots (QDs) and carbon nanotubes (CNTs). The second section presents the main types of stimuli-responsive mechanisms and classifies these into two categories: intrinsic (pH, redox state, biomolecules) and extrinsic (temperature, light irradiation, magnetic field and ultrasound) ones. Clinical applications of DDS, future challenges and perspectives are also mentioned.
+    
+",https://pubmed.ncbi.nlm.nih.gov/27999414/
+21,"
+                The synthesis and bio-applications of magnetic and fluorescent bifunctional composite nanoparticles.
+              ","Wang G, Su X.",Review.,"
+        doi: 10.1039/c1an15036g.
+      ","
+
+      
+      Magnetic-fluorescent composite nanoparticles as a new kind of nanoparticle have attracted much attention in recent years. The composite nanoparticles combine the fluorescent properties, magnetic properties and the physical properties of nano-size, so they can offer a range of potential applications, such as bioseparation and bio-imaging, tumor cell localization, and even cancer treatment. This Minireview will introduce the main synthesis strategies for the fabrication of magnetic-fluorescent composite nanoparticles, the current and potential bio-application of magnetic-fluorescent nanocomposites, including protein and DNA separation and detection, bio-imaging and sorting in vitro and in vivo, drug delivery and the cancer treatment.
+    
+",https://pubmed.ncbi.nlm.nih.gov/21431200/
+22,"
+                Multimodality molecular imaging of tumor angiogenesis.
+              ","Cai W, Chen X.",Review.,"
+        doi: 10.2967/jnumed.107.045922.
+      ","
+
+      
+      Molecular imaging is a key component of 21st-century cancer management. The vascular endothelial growth factor (VEGF)/VEGF receptor signaling pathway and integrin alpha v beta 3, a cell adhesion molecule, play pivotal roles in regulating tumor angiogenesis, the growth of new blood vessels. This review summarizes the current status of tumor angiogenesis imaging with SPECT, PET, molecular MRI, targeted ultrasound, and optical techniques. For integrin alpha v beta 3 imaging, only nanoparticle-based probes, which truly target the tumor vasculature rather than tumor cells because of poor extravasation, are discussed. Once improvements in the in vivo stability, tumor-targeting efficacy, and pharmacokinetics of tumor angiogenesis imaging probes are made, translation to clinical applications will be critical for the maximum benefit of these novel agents. The future of tumor angiogenesis imaging lies in multimodality and nanoparticle-based approaches, imaging of protein-protein interactions, and quantitative molecular imaging. Combinations of multiple modalities can yield complementary information and offer synergistic advantages over any modality alone. Nanoparticles, possessing multifunctionality and enormous flexibility, can allow for the integration of therapeutic components, targeting ligands, and multimodality imaging labels into one entity, termed ""nanomedicine,"" for which the ideal target is tumor neovasculature. Quantitative imaging of tumor angiogenesis and protein-protein interactions that modulate angiogenesis will lead to more robust and effective monitoring of personalized molecular cancer therapy. Multidisciplinary approaches and cooperative efforts from many individuals, institutions, industries, and organizations are needed to quickly translate multimodality tumor angiogenesis imaging into multiple facets of cancer management. Not limited to cancer, these novel agents can also have broad applications for many other angiogenesis-related diseases.
+    
+",https://pubmed.ncbi.nlm.nih.gov/18523069/
+23,"
+                [Application and advancement of magnetic iron-oxide nanoparticles in tumor-targeted therapy].
+              ","Chen Y, Chen BA.",Review.,"
+        doi: 10.5732/cjc.009.10153.
+      ","
+
+      
+      Recently, nanometer-sized magnetic particles have been intensively concerned and investigated due to their particularly large surface-to-volume ratio, quantum-size effect, magnetic character as well as their potential application in the area of bioscience and medicine. The most promising nanoparticles are magnetic iron oxide nanoparticles with appropriate surface modification, which have been widely used experimentally for numerous in vivo applications such as magnetic resonance imaging contrast enhancement, tissue repair, immunoassay, detoxification of biological fluids, drug delivery, hyperthermia and cell separation. To focus on one of the most important and fascinating subjects in nanobiotechnology, this review describes the current situation and development of magnetic iron oxide nanoparticles and their applications in drug delivery and hyperthermia in tumor-targeted therapy. The possible perspectives and some challenges to further development of these nanoparticles are also analyzed and discussed.
+    
+",https://pubmed.ncbi.nlm.nih.gov/20038325/
+24,"
+                Gold nanoclusters as novel optical probes for in vitro and in vivo fluorescence imaging.
+              ","Shang L, Nienhaus GU.",Review.,"
+        doi: 10.1007/s12551-012-0076-9.
+      ","
+
+      
+      Fluorescent probes play an important role in the development of fluorescence-based imaging techniques for life sciences research. Gold nanoclusters (AuNCs) are a novel type of fluorescent nanomaterials which have attracted great interest in recent years. Composed of only a few atoms, these ultrasmall AuNCs exhibit quantum confinement effects and molecule-like properties. Fluorescent AuNCs have an attractive set of features including ultrasmall size, good biocompatibility and photostability, and tunable emission in the red to near-infrared spectral region, which make them promising as fluorescent labels for biological imaging. Examples of their application include live cell labeling, cancer cell targeting, cellular apoptosis monitoring, and in vivo tumor imaging. Here, we present a brief overview of recent advances in utilizing these emissive ultrasmall AuNCs as optical probes for in vitro and in vivo fluorescence imaging.
+    
+",https://pubmed.ncbi.nlm.nih.gov/28510207/
+25,"
+                The quest for the laws governing radiations and the search for beneficial innovations.
+              ",Laughlin JS.,Review.,None,"
+
+      
+      The last few years of the 19th Century saw the initial discoveries of ionizing radiation. These seminal discoveries were followed by an era of intensive studies of the physics related to radiation and clinical applications. The quantum theory revolutionized the ideas about nuclear structure and had a major impact on the physics of radiation. The discoveries of artificial radioactivity and of the neutron and the associated nuclear research have led to the availability of a variety of labeled compounds important to the study of human metabolism. Radioimmunoassay is an example, while other labeled compounds have therapeutic significance. New concepts in the acceleration of electrons and positive ions have contributed to the ability to concentrate radiation energy. New concepts in physics have led to the development of significant and versatile forms of diagnostic imaging. An example is computed tomography. Magnetic resonance is another example of an important physical concept which, decades after its discovery, made possible important applications in imaging and spectroscopy. Unlike ionizing radiation, the less energetic radiofrequency photons can convey information about molecular bonds but do not have sufficient energy to break them. Photon and positron emission scanning and tomography provide external images of internal concentrations of radionuclides, permitting the noninvasive determination of function. Dosimetry is fundamentally important to the diagnostic and therapeutic uses of radiation at both microscopic and macroscopic levels. A variety of radiation measuring instruments have been designed and studied for different purposes, including those based on radiation chemical response. Mammography is just one of the diagnostic applications where dosimetry, detector sensitivity characteristics, the radiation energy spectrum and image resolution are all vital parameters. In radiation treatment, physical and mathematical developments and quantitative radiation biology have increasingly led to optimum conformal radiation treatment, with dosimetry as a guiding parameter.
+    
+",https://pubmed.ncbi.nlm.nih.gov/7480639/
+26,"
                 Learning to Model G-Quadruplexes: Current Methods and Perspectives.
               ","Ortiz de Luzuriaga I, Lopez X, Gil A.",Review.,"
         doi: 10.1146/annurev-biophys-060320-091827.
@@ -99,13 +275,33 @@ Quantum entanglement in photoactive prebiotic systems.
       G-quadruplexes have raised considerable interest during the past years for the development of therapies against cancer. These noncanonical structures of DNA may be found in telomeres and/or oncogene promoters, and it has been observed that the stabilization of such G-quadruplexes may disturb tumor cell growth. Nevertheless, the mechanisms leading to folding and stabilization of these G-quadruplexes are still not well established, and they are the focus of much current work in this field. In seminal works, stabilization was observed to be produced by cations. However, subsequent studies showed that different kinds of small molecules, from planar and nonplanar organic molecules to square-planar and octahedral metal complexes, may also lead to the stabilization of G-quadruplexes. Thus, the comprehension and rationalization of the interaction of these small molecules with G-quadruplexes are also important topics of current interest in medical applications. To shed light on the questions arising from the literature on the formation of G-quadruplexes, their stabilization, and their interaction with small molecules, synergies between experimental studies and computational works are needed. In this review, we mainly focus on in silico approaches and provide a broad compilation of different leading studies carried out to date by different computational methods. We divide these methods into twomain categories: (a) classical methods, which allow for long-timescale molecular dynamics simulations and the corresponding analysis of dynamical information, and (b) quantum methods (semiempirical, quantum mechanics/molecular mechanics, and density functional theory methods), which allow for the explicit simulation of the electronic structure of the system but, in general, are not capable of being used in long-timescale molecular dynamics simulations and, therefore, give a more static picture of the relevant processes.
     
 ",https://pubmed.ncbi.nlm.nih.gov/33561349/
-10,"
-                Imaging cancer cells with nanostructures: Prospects of nanotechnology driven non-invasive cancer diagnosis.
-              ","Augustine R, Mamun AA, Hasan A, Salam SA, Chandrasekaran R, Ahmed R, Thakor AS.",Review.,"
-        doi: 10.1016/j.cis.2021.102457.
+27,"
+                Fluorescent nanocrystal-encoded microbeads for multiplexed cancer imaging and diagnosis.
+              ","Sukhanova A, Nabiev I.",Review.,"
+        doi: 10.1016/j.critrevonc.2008.05.006.
       ","
 
       
-      The application of nanostructured materials in medicine is a rapidly evolving area of research that includes both the diagnosis and treatment of various diseases. Metals, metal oxides and carbon-based nanomaterials have shown much promise in medical technological advancements due to their tunable physical, chemical and biological properties. The nanoscale properties, especially the size, shape, surface chemistry and stability makes them highly desirable for diagnosing and treating various diseases, including cancers. Major applications of nanomaterials in cancer diagnosis include in vivo bioimaging and molecular marker detection, mainly as image contrast agents using modalities such as radio, magnetic resonance, and ultrasound imaging. When a suitable targeting ligand is attached on the nanomaterial surface, it can help pinpoint the disease site during imaging. The application of nanostructured materials in cancer diagnosis can help in the early detection, treatment and patient follow-up . This review aims to gather and present the information regarding the application of nanotechnology in cancer diagnosis. We also discuss the challenges and prospects regarding the application of nanomaterials as cancer diagnostic tools.
+      Bead-based assays on very large numbers of molecules in proteomics, genomics, drug screening and clinical diagnostics require encoding of each of the microbeads according to the particular ligand bound to its surface. The benefits of using optically encoded microbeads (instead of the solid-state two-dimensional arrays) are derived from the freedom of bead to move in three dimensions. Polymeric beads optically encoded with organic dyes allow for a limited number of unique codes whereas the use of semiconductor nanocrystals as fluorescent tags improves the beads multiplexed imaging capabilities, photostability and sensitivity of the antigen detection. Additionally, an employment of the recently demonstrated Förster resonance energy transfer (FRET) from the microbeads nanocrystal codes to the nearby antibody dye label allows for the very specific detection of the interaction between the microbead and the antibody. This interaction turns the fluorescence signal from dye label off and on thus effectively discriminating between the occurrence and the non-occurrence of antibody binding. The absence of fluorescent background from non-interacting with the beads dye-labelled antibodies additionally increases the sensitivity of detection and further facilitates the multiplexing capabilities of nanocrystals-based detection and diagnostics. This paper reviews the state-of-the-art results of development of microbeads optically encoded with the fluorescent nanocrystals ""quantum dots"" and their applications to proteomics for cancer antigens and autoantibodies imaging and diagnosis.
     
-",https://pubmed.ncbi.nlm.nih.gov/34144344/
+",https://pubmed.ncbi.nlm.nih.gov/18621543/
+28,"
+                Smart nano-micro platforms for ophthalmological applications: The state-of-the-art and future perspectives.
+              ","Lyu Q, Peng L, Hong X, Fan T, Li J, Cui Y, Zhang H, Zhao J.",Review.,"
+        doi: 10.1016/j.biomaterials.2021.120682.
+      ","
+
+      
+      Smart nano-micro platforms have been extensively applied for diverse biomedical applications, mostly focusing on cancer therapy. In comparison with conventional nanotechnology, the smart nano-micro matrix can exhibit specific response to exogenous or endogenous triggers, and thus can achieve multiple functions e.g. site-specific drug delivery, bio-imaging and detection of bio-molecules. These intriguing techniques have expanded into ophthalmology in recent years, yet few works have been summarized in this field. In this work, we provide the state-of-the-art of diverse nano-micro platforms based on both the conventional materials (e.g. natural or synthetic polymers, lipid nanomaterials, metal and metal oxide nanoparticles) and emerging nanomaterials (e.g. up-conversion nanoparticles, quantum dots and carbon materials) in ophthalmology, with some smart nano/micro platformers highlighted. The common ocular diseases studied in the field of nano-micro systems are firstly introduced, and their therapeutic method and the related drawback in clinic treatment are presented. The recent progress of different materials for diverse ocular applications is then demonstrated, with the representative nano- and micro-systems highlighted in detail. At last, an in-depth discussion on the clinical translation challenges faced in this field and the future direction are provided. This review would allow the researchers to design more smart nanomedicines in a more rational manner for specific ophthalmology applications.
+    
+",https://pubmed.ncbi.nlm.nih.gov/33529961/
+29,"
+                Turning promiscuous kinase inhibitors into safer drugs.
+              ","Zhang X, Crespo A, Fernández A.",Review.,"
+        doi: 10.1016/j.tibtech.2008.02.008.
+      ","
+
+      
+      Burgeoning interest in multi-target drugs to treat complex diseases and malignancies has motivated a reassessment of the therapeutic value of promiscuity. Although drug efficacy might not correlate with specificity, it would be risky to welcome promiscuous compounds without a rational strategy to control therapeutic impact. This situation might change as novel selectivity filters are incorporated into drug design. For example, cardiotoxic side effects of the cancer drug imatinib might be curbed by applying such premises. Here, we survey approaches to control the therapeutic impact of cross-reactive kinase inhibitors and advocate the application of a novel selectivity filter by illustrating its cleaning efficacy. Finally, we evaluate the possibility of turning multi-target kinase inhibitors into clinical opportunities through judicious chemical modifications.
+    
+",https://pubmed.ncbi.nlm.nih.gov/18403035/
